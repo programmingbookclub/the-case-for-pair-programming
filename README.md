@@ -101,4 +101,4 @@ Investing in higher-quality code through pair programming leads to a better code
 
 Check out our guide on [your first pairing session](your-first-pairing-session). -->
 
-[Next: Your first Pairing session](https://blog.csdn.net/weixin_34221276/article/details/88981836)
+[Next: Your first Pairing session](02-your-first-pairing-session.md)
