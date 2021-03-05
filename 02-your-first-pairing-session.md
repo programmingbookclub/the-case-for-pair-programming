@@ -147,7 +147,7 @@ Take extra care to avoid immediately after lunch or very late in the day.
 想在您的第一次結對經驗上想要一些進一步的指導嗎？
 <!-- want some further guidance on your first session? -->
 
-請查看我們的[結對會話模板](a-pairing-session-template.md)以獲取想法。
+請查看我們的[結對會話模板](03-a-pairing-session-template.md)以獲取想法。
 <!-- Check out our [pairing session template](a-pairing-session-template.md) for ideas. -->
 
 
